@@ -39,3 +39,4 @@ Este proyecto implementa un chatbot para Telegram utilizando una imagen personal
 - Activa el flujo
 
 ![Vista previa del proyecto](./assets/2024-11-27.png)
+![Ejemplo del chatbot](./assets/chatbot-example.jpg)
