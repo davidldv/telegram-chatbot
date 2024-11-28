@@ -15,3 +15,4 @@ services:
       - GENERIC_TIMEZONE=America/Mexico_City
       - WEBHOOK_TUNNEL_URL=https://5e55-181-204-77-106.ngrok-free.app
 
+# docker run -it --rm --name n8n -p 5678:5678 -v n8n_data:/home/node/.n8n -e WEBHOOK_URL=https://5e55-181-204-77-106.ngrok-free.app docker.n8n.io/n8nio/n8n 
