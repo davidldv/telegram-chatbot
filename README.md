@@ -39,5 +39,7 @@ Este proyecto implementa un chatbot para Telegram utilizando una imagen personal
 - Activa el flujo
 
 ![Vista previa del proyecto](./assets/2024-11-27.png)
+
+## Click en la imagen para ver el video de demostracion 👇
 [![Ver el video de demostracion](https://img.youtube.com/vi/fvIo44pw4TI/0.jpg)](https://youtu.be/fvIo44pw4TI)
 
