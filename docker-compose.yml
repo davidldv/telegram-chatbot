@@ -13,3 +13,5 @@ services:
       - N8N_BASIC_AUTH_USER=admin
       - N8N_BASIC_AUTH_PASSWORD=admin123
       - GENERIC_TIMEZONE=America/Mexico_City
+      - WEBHOOK_TUNNEL_URL=https://5e55-181-204-77-106.ngrok-free.app
+
